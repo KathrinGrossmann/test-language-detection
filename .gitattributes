@@ -3,4 +3,4 @@
 LICENSE linguist-vendored
 README.md linguist-vendored
 package.json linguist-vendored
-*.st linguist-language=st
+
